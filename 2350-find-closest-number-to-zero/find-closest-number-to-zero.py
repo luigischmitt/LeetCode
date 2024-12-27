@@ -9,4 +9,3 @@ class Solution(object):
             if menor not in nums:
                 return menor*(-1)
         return menor
-        
